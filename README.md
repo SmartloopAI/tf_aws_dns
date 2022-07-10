@@ -1,6 +1,6 @@
 # tf_aws_dns
 
-Terraform plan for configuring AWS route 53 entries
+Terraform plan for configuring AWS route 53 DNS
 
 
 ## Requirements
